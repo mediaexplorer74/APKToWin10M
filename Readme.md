@@ -1,7 +1,5 @@
 # APKToWin10M
-
 My little and fun Improvements of lost Project Astoria. Just for fun.
-
 
 # Screenshots
 ![](Images/shot1.png)
@@ -24,5 +22,8 @@ My little and fun Improvements of lost Project Astoria. Just for fun.
 ## References
 - Antonio de la Iglesia, APKToWin10M's Developer
 
-##
+## ..
+AS IS. No support. RnD / Geeks only  
+
+## .
 - m.e.
