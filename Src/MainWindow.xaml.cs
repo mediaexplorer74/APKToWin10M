@@ -126,7 +126,8 @@ namespace AppsAndroidEnW10Mobile
         Process process = new Process();
         
         process.StartInfo = processStartInfo;
-        
+
+        //object value = await 
         process.Start();
         
         return process.StandardOutput.ReadToEnd();
