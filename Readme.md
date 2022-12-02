@@ -4,7 +4,7 @@ My little and fun Improvements of lost Project Astoria. Just for fun.
 
 
 # Screenshots
-![](Images/shot01.png)
+![](Images/shot1.png)
 
 ## A few tech. moments
 - I found some strange Espaniol APKToWin10M app for Project Astoria (and oooldest Win10Mobile TP... 10240?)
